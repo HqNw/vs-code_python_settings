@@ -21,10 +21,13 @@ restart vs-code
 in the terminal type `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
 
 ![](./images/p.png)
+
 should look like this
+
 ![](./images/pp.png)
 
 then type `python get-pip.py`
+
 ![](./images/ppp.png)
 
 # install mysql connector
